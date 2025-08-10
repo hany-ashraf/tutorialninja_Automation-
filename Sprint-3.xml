@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test name="validation of adding item to the crt">
+        <classes>
+            <class name="testcases.TC04_E2Escenarios">
+                <methods>
+                    <include name="ValidationAddItemInCart_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="adding item to wish list">
+        <classes>
+            <class name="testcases.TC04_E2Escenarios">
+                <methods>
+                    <include name="ValidationAddItemToWishList_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="adding item to compare list">
+        <classes>
+            <class name="testcases.TC04_E2Escenarios">
+                <methods>
+                    <include name="ValidationCompareList_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

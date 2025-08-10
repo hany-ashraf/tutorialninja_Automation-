@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test name="registeration new account with valid data">
+        <classes>
+            <class name="testcases.TC02_RegisterPage">
+                <methods>
+                    <include name="registerNewAccountWithValidData_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="login with valid data">
+        <classes>
+            <class name="testcases.TC03_LoginPage">
+                <methods>
+                    <include name="loginWithValidData_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Reset Password of the User">
+        <classes>
+            <class name="testcases.TC03_LoginPage">
+                <methods>
+                    <include name="validateForgetPassword_N"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
