@@ -4,6 +4,8 @@
 **TutorialsNinga** is an **E-commerce web application** used here as a testing playground for **automation testing with Selenium 4**.  
 It simulates common online shopping flows such as **product browsing**, **shopping cart**, and **checkout** for electronic devices like **Mobiles**, **Laptops**, and more.
 
+## ![TutorialsNinga_Logo](logo.png)
+
 🔗 **Live Demo:** [TutorialsNinga Web Application](https://lnkd.in/dE4aPYid)  
 🔴 **GitHub Repository:** [View Code](https://lnkd.in/drdif2bk)
 
