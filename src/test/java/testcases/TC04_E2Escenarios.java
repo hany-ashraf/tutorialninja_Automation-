@@ -17,8 +17,8 @@ public class TC04_E2Escenarios extends TestBase{
     P06_CheckOutPage checkOutPage;
     SoftAssert softAssert;
 
-    String email = "b44zlpsio91@gmail.com";
-    String password = "!)ROgw6m8Qx+;DK8zgP7[W.U-T";
+    String email = "mbz2m7fwqqdr65a@gmail.com";
+    String password = "gU}Pb<F#v!9+0XhKM&$3L2+,UQ]:";
     String itemSearch = "Canon EOS 5D";
     String itemSearchFullOrder = "HP LP3065";
     String cat = getRandomCategory();

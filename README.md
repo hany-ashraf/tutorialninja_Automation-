@@ -8,6 +8,7 @@ It simulates common online shopping flows such as **product browsing**, **shoppi
 🔴 **GitHub Repository:** [View Code](https://lnkd.in/drdif2bk)
 
 ---
+## ![Usage Example](TCs_run.gif) 
 
 ## 💡 Key Test Scenarios
 
